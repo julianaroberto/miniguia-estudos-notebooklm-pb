@@ -136,4 +136,4 @@ O desenvolvimento de uma análise no Power BI segue seis etapas sequenciais:
 *4.3 Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema*
 - Faça um teste de 5 perguntas de múltipla escolha sobre os conceitos básicos de Power BI abordados nos documentos, para eu revisar o que aprendi.
 - Resuma em 3 frases o que é Power BI e por que ele é usado, como se estivesse explicando para alguém em uma entrevista de emprego.
-- Compare o que eu já sabia sobre Power BI (cite seus conhecimentos prévios, ex: Noções de SQL) com os conceitos novos apresentados nas fontes, e identifique onde há sobreposição e onde há lacunas.
+- Compare o que eu já sabia sobre Power BI *(cite seus conhecimentos prévios, ex: Noções de SQL)* com os conceitos novos apresentados nas fontes, e identifique onde há sobreposição e onde há lacunas.
